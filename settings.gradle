@@ -1,0 +1,2 @@
+rootProject.name = "fling_gesture"
+include ':app'
